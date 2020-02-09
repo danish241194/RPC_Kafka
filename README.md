@@ -42,3 +42,7 @@ print(a.div(12,5))
 print(a.is_hello("hello"))
 print(a.is_hello("danish"))
 ```
+## KAFKA
+```python
+Run ZooKeeper and Kafka Server with default properties
+```
